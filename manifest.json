@@ -29,6 +29,6 @@
         "scripting"
     ],
     "host_permissions": [
-        "https://www.bublup.com/*"
+        "https://www.google.com/*"
     ]
 }
